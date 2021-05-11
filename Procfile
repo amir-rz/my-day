@@ -1,1 +1,1 @@
-web: gunicorn my_day.wsgi.py
+web: gunicorn my_day.wsgi
